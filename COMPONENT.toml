@@ -3,7 +3,7 @@ name = "SigmaOS-configuration-diff"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "configuration-diff component"
+description = "Configuration Diff"
 upstream = []
 
 [contract]
